@@ -1,0 +1,25 @@
+{
+  "name": "art-building",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/motion": "^2.0.0",
+    "axios": "^1.6.5",
+    "router": "^1.3.8",
+    "sass": "^1.69.7",
+    "scss": "^0.2.4",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "gh-pages": "^6.1.1",
+    "vite": "^5.0.8"
+  }
+}
